@@ -12,10 +12,11 @@
   "devDependencies": {
     "@auto-it/all-contributors": "^10.32.2",
     "@auto-it/first-time-contributor": "^10.32.2",
+    "@auto-it/git-tag": "^10.32.3",
     "@auto-it/released": "^10.32.2",
+    "@glitchdotcom/vite-plugin-handlebars": "^1.6.2",
     "auto": "^10.32.2",
-    "vite": "^2.5.0",
-    "@glitchdotcom/vite-plugin-handlebars": "^1.6.2"
+    "vite": "^2.5.0"
   },
   "browserslist": [
     ">0.2%",
@@ -35,7 +36,8 @@
     "plugins": [
       "all-contributors",
       "first-time-contributor",
-      "released"
+      "released",
+      "git-tag"
     ],
     "onlyPublishWithReleaseLabel": true
   }
