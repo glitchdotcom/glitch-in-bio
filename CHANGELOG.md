@@ -1,6 +1,6 @@
 ## Version 0.0.2 
 
-**Released 1st December 2021**
+**Released 30th November 2021**
 
 * Accessibility fixes
     * Focus states for keyboard interaction
