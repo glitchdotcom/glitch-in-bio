@@ -1,9 +1,29 @@
-#### ⚠️ Pushed to `main`
+## Version 0.0.2 
 
-- Initial commit ([@SueSmith](https://github.com/SueSmith))
+**Released 1st December 2021**
 
-#### Authors: 3
+* Accessibility fixes
+    * Focus states for keyboard interaction
+    * Alt text option for link images
+    * Better contrast 
+    * More responsive text size
+* Social icon hover fix 
+* Remix button text change 
+* Meta tag og:description addition
+* New social icons
+    * TikTok
+    * SoundCloud
+    * Bandcamp
+    * Mastodon
+    * Stack Overflow
+    * Podcast
+    * Ko-Fi
+* License update 
 
-- Glitch (glitch-in-bio) ([@glitch](https://glitch.com/@glitch))
-- Keith Kurson ([@keithk](https://github.com/keithk))
-- Sue Smith ([@SueSmith](https://github.com/SueSmith))
+Check out the contributors in CONTRIBUTORS.md!
+
+## Version 0.0.1
+
+**Released 16th November 2021**
+
+[See Glitch in Bio release announcement.](https://blog.glitch.com/post/announcing-glitch-in-bio-the-easiest-way-to-share-your-links)
