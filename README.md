@@ -2,7 +2,7 @@
 
 Your links, your way. A link-in-bio app you can customize any way you want.
 
-![screen gif showing the header of the glitch-in-bio remix being updated to say "hello, world!"](https://cdn.glitch.me/8fa3e636-2989-4bb4-87e5-c44e7ffde070%2F2021-10-26%2016.43.43.gif?v=1635281123481)
+![screen gif showing the header of the glitch-in-bio remix being updated to say "hello, world!"](https://cdn.glitch.global/d70d071e-fd72-4991-a194-b09993a9b465/gib.gif?v=1641381379577)
 
 ## Direct traffic to your own Glitch-in-bio app in 3 steps:
 
