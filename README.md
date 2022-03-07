@@ -22,17 +22,16 @@ If you want to include images, upload them in `assets` and copy the URLs into yo
 
 To help you make the site your own we've included some themes.
 
-In `settings.json` you can enter
+In `settings.json` you can enter any of the following as the value for `theme`:
 
 - `glitch`
 - `gallery`
 - `menu`
-
-as the value for `theme`.
+- `custom-theme`
 
 📝 _If you want to see how these themes are made, look in the `public/styles/themes` directory! If you don't have a valid theme entered, the site will default to the styles outlined in `style.css`._
 
-### Custom themes
+#### Making a custom theme
 
 Customize your site by updating `custom-theme.css` inside the `public/styles/themes` folder with CSS to update colors, fonts, or any other style rules. Update your `theme` in `settings.json` to `custom-theme` to have the app use those new rules.
 
