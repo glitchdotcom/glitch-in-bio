@@ -8,7 +8,7 @@ Your links, your way. A link-in-bio app you can customize any way you want.
 
 ### 1. Remix this app for your own, live version in seconds
 
-Then click **Show** on the top right of this window and then **Open in new window** to see the live app in its own window, with a free `glitch.me` domain ready to share. 
+Then click **Preview** at the bottom of this window and then **Preview in new window** to see the live app in its own window, with a free `glitch.me` domain ready to share. 
 
 📝 _Make sure to log into Glitch to save your new app or else it will expire in 5 days._
 
