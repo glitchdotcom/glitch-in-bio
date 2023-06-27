@@ -8,7 +8,7 @@ Your links, your way. A link-in-bio app you can customize any way you want.
 
 ### 1. Remix this app for your own, live version in seconds
 
-Then click **Show** on the top right of this window and then **Open in new window** to see the live app in its own window, with a free `glitch.me` domain ready to share. 
+Then click **Preview** at the bottom of this window and then **Preview in new window** to see the live app in its own window, with a free `glitch.me` domain ready to share. 
 
 📝 _Make sure to log into Glitch to save your new app or else it will expire in 5 days._
 
@@ -49,7 +49,7 @@ Get **verified** links by adding `rel="me"` to your anchor tags in `layout/socia
 >
 ```
 
-* Check out the [Glitch-in-bio section of our Help Center](https://help.glitch.com/kb/section/13/) for more documentation on how to customize or troubleshoot your new app!
+* Check out the [Glitch-in-bio section of our Help Center](https://help.glitch.com/hc/en-us/sections/16285912923917) for more documentation on how to customize or troubleshoot your new app!
 * If you notice your preview is a little out of sync with your `settings.json`, hit the reload button in the preview window and it should update!
 * Looking for ways to extend your app, or for inspiration? Check out the official [Glitch-in-bio page](https://glitch.com/glitch-in-bio).
 
