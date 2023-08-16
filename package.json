@@ -1,6 +1,6 @@
 {
   "name": "glitch-in-bio",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Your very own link-in-bio app.",
   "main": "index.html",
   "scripts": {
