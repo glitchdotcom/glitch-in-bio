@@ -1,3 +1,9 @@
+## Version 0.0.4
+
+**Released 16th August 2023**
+
+* Glitch social icon for Mastodon added
+    
 ## Version 0.0.3
 
 **Released 22nd November 2022**
