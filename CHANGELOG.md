@@ -1,3 +1,11 @@
+## Version 1.0.0
+
+**Released 16th September 2023**
+
+* Removed `vite-handlebars-glitch` for templating
+* Added `lighterhtml` for templating
+* Added instructions for Bluesky verification to README
+
 ## Version 0.0.4
 
 **Released 16th August 2023**

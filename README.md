@@ -40,6 +40,10 @@ Get **verified** links by adding `rel="me"` to your anchor tags in `templates/so
 { "name": "mastodon", "altText": "Mastodon", "rel": "me" }
 ```
 
+To use your Glitch in Bio site as a [Bluesky](https://bsky.app) handle, create a new file at `.well-known/atproto-did` and fill it in with the value provided by Bluesky in the [change handle flow](https://bsky.app/settings).
+
+![Screenshot of creating a new file](https://cdn.glitch.global/392b630f-7e63-4726-985e-4271b847758b/bluesky-did.png?v=1694808296064)
+
 - Check out the [Glitch-in-bio section of our Help Center](https://help.glitch.com/hc/en-us/sections/16285912923917) for more documentation on how to customize or troubleshoot your new app!
 - If you notice your preview is a little out of sync with your `settings.json`, hit the reload button in the preview window and it should update!
 - Looking for ways to extend your app, or for inspiration? Check out the official [Glitch-in-bio page](https://glitch.com/glitch-in-bio).
