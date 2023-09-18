@@ -11,7 +11,8 @@ function renderSocial(platform) {
         href="${settings.social[platform.name]}"
         tabindex="-1"
         rel=${platform.rel}
-        >${SVGs[platform.name]}</a>
+        >${SVGs[platform.name]}</a
+      >
     `;
   }
 }
@@ -23,41 +24,43 @@ function renderEmail() {
         aria-label="${settings.name} on email"
         href="mailto:${settings.social.email}"
         tabindex="-1"
-        >${SVGs.email}</a>
+        >${SVGs.email}</a
+      >
     `;
   }
 }
 
 const socials = [
-  {name: "glitch", altText: "Glitch"},
-  {name: "arena", altText: "Arena"},
-  {name: "bandcamp", altText: "Bandcamp"},
-  {name: "cohost", altText: "Cohost"},
-  {name: "devTo", altText: "DevTo"},
-  {name: "facebook", altText: "Facebook"},
-  {name: "github", altText: "GitHub"},
-  {name: "gitlab", altText: "GitLab"},
-  {name: "hasnode", altText: "Hasnode"},
-  {name: "instagram", altText: "Instagram"},
-  {name: "keybase", altText: "Keybase"},
-  {name: "kofi", altText: "Ko-fi"},
-  {name: "letterboxd", altText: "Letterboxd"},
-  {name: "linkedin", altText: "LinkedIn"},
-  {name: "mastodon", altText: "Mastodon", rel: "me" },
-  {name: "medium", altText: "Medium"},
-  {name: "patreon", altText: "Patreon"},
-  {name: "pinboard", altText: "Pinboard"},
-  {name: "pinterest", altText: "Pinterest"},
-  {name: "podcast", altText: "Podcast"},
-  {name: "spotify", altText: "Spotify"},
-  {name: "soundcloud", altText: "SoundCloud"},
-  {name: "stackOverflow", altText: "Stack Overflow"},
-  {name: "substack", altText: "Substack"},
-  {name: "tiktok", altText: "TikTok"},
-  {name: "twitch", altText: "Twitch"},
-  {name: "twitter", altText: "Twitter"},
-  {name: "tumblr", altText: "Tumblr"},
-  {name: "youtube", altText: "YouTube"},
+  { name: "glitch", altText: "Glitch" },
+  { name: "arena", altText: "Arena" },
+  { name: "bandcamp", altText: "Bandcamp" },
+  { name: "cohost", altText: "Cohost" },
+  { name: "devTo", altText: "DevTo" },
+  { name: "facebook", altText: "Facebook" },
+  { name: "github", altText: "GitHub" },
+  { name: "gitlab", altText: "GitLab" },
+  { name: "hasnode", altText: "Hasnode" },
+  { name: "instagram", altText: "Instagram" },
+  { name: "keybase", altText: "Keybase" },
+  { name: "kofi", altText: "Ko-fi" },
+  { name: "letterboxd", altText: "Letterboxd" },
+  { name: "linkedin", altText: "LinkedIn" },
+  { name: "mastodon", altText: "Mastodon", rel: "me" },
+  { name: "medium", altText: "Medium" },
+  { name: "patreon", altText: "Patreon" },
+  { name: "pinboard", altText: "Pinboard" },
+  { name: "pinterest", altText: "Pinterest" },
+  { name: "podcast", altText: "Podcast" },
+  { name: "onlyfans", altText: "OnlyFans" },
+  { name: "spotify", altText: "Spotify" },
+  { name: "soundcloud", altText: "SoundCloud" },
+  { name: "stackOverflow", altText: "Stack Overflow" },
+  { name: "substack", altText: "Substack" },
+  { name: "tiktok", altText: "TikTok" },
+  { name: "twitch", altText: "Twitch" },
+  { name: "twitter", altText: "Twitter" },
+  { name: "tumblr", altText: "Tumblr" },
+  { name: "youtube", altText: "YouTube" }
 ];
 
 export const renderSocialIcons = html.node`

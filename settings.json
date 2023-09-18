@@ -8,7 +8,7 @@
     {
       "url": "https://glitch.new/links",
       "text": "Remix! Have your own Glitch-in-bio running in seconds.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
       "altText": "Glitch blue generative art"
     },
     {
@@ -19,28 +19,29 @@
     {
       "url": "https://www.glitch.com/",
       "text": "Built by and on Glitch, the easiest way to build the web.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
     }
   ],
   "social": {
     "glitch": "https://glitch.com/",
-    "arena":"",
+    "arena": "",
     "bandcamp": "",
-    "cohost":"",
-    "dev": "https://dev.to/glitch",    
+    "cohost": "",
+    "dev": "https://dev.to/glitch",
     "facebook": "",
     "github": "https://github.com/glitchdotcom",
     "gitlab": "",
     "hashnode": "",
     "instagram": "",
-    "keybase":"",
+    "keybase": "",
     "kofi": "",
-    "letterboxd":"",
+    "letterboxd": "",
     "linkedin": "https://www.linkedin.com/company/fog-creek-software",
     "mastodon": "https://mastodon.social/@glitchdotcom",
     "medium": "",
+    "onlyfans": "",
     "patreon": "",
-    "pinboard":"",
+    "pinboard": "",
     "pinterest": "",
     "podcast": "",
     "soundcloud": "",
