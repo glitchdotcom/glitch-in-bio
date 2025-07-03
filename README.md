@@ -1,5 +1,7 @@
 # Glitch in Bio!
 
+> ⚠️ **Glitch project hosting shuts down on 8th July 2025 so you won't be able to remix this project on Glitch anymore but you're welcome to use this source code if you'd like to deploy it somewhere else! Here's an example of the site deployed to Fastly Compute: https://glitch-in-bio.edgecompute.app/**
+
 Your links, your way. A link-in-bio app you can customize any way you want.
 
 ![screen gif showing the header of the glitch-in-bio remix being updated to say "hello, world!"](https://cdn.glitch.global/28f22022-c2c5-4372-93ec-be33834d37d9/gib.gif?v=1694020426922)
