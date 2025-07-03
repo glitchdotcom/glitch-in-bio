@@ -1,0 +1,26 @@
+# This file describes a Fastly Compute package. To learn more visit:
+# https://www.fastly.com/documentation/reference/compute/fastly-toml
+
+authors = ["Keith Kurson <keith@glitch.com>"]
+description = "Your very own link-in-bio app."
+language = "javascript"
+manifest_version = 3
+name = "glitch-in-bio"
+service_id = "0oRUab54YJ99KeSmw1Plp5"
+
+[local_server]
+
+  [local_server.kv_stores]
+
+    [local_server.kv_stores.glitchinbio-content]
+      file = "./static-publisher/kvstore.json"
+      format = "json"
+
+[scripts]
+  build = "npm run build"
+
+[setup]
+
+  [setup.kv_stores]
+
+    [setup.kv_stores.glitchinbio-content]
