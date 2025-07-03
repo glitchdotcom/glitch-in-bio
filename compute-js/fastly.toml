@@ -6,7 +6,6 @@ description = "Your very own link-in-bio app."
 language = "javascript"
 manifest_version = 3
 name = "glitch-in-bio"
-service_id = "0oRUab54YJ99KeSmw1Plp5"
 
 [local_server]
 
